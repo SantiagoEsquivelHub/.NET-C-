@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\bin\Debug\net6.0\ConsoleApp2_Ejercicios.exe
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\bin\Debug\net6.0\ConsoleApp2_Ejercicios.deps.json
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\bin\Debug\net6.0\ConsoleApp2_Ejercicios.runtimeconfig.json
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\bin\Debug\net6.0\ConsoleApp2_Ejercicios.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\bin\Debug\net6.0\ConsoleApp2_Ejercicios.pdb
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\obj\Debug\net6.0\ConsoleApp2_Ejercicios.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\obj\Debug\net6.0\ConsoleApp2_Ejercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\obj\Debug\net6.0\ConsoleApp2_Ejercicios.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\obj\Debug\net6.0\ConsoleApp2_Ejercicios.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\obj\Debug\net6.0\ConsoleApp2_Ejercicios.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\obj\Debug\net6.0\ConsoleApp2_Ejercicios.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\obj\Debug\net6.0\refint\ConsoleApp2_Ejercicios.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\obj\Debug\net6.0\ConsoleApp2_Ejercicios.pdb
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\obj\Debug\net6.0\ConsoleApp2_Ejercicios.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleApp2_Ejercicios\obj\Debug\net6.0\ref\ConsoleApp2_Ejercicios.dll

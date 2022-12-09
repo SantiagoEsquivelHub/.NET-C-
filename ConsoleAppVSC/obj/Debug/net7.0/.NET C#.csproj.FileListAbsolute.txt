@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\bin\Debug\net7.0\.NET C#.exe
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\bin\Debug\net7.0\.NET C#.deps.json
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\bin\Debug\net7.0\.NET C#.runtimeconfig.json
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\bin\Debug\net7.0\.NET C#.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\bin\Debug\net7.0\.NET C#.pdb
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\obj\Debug\net7.0\.NET C#.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\obj\Debug\net7.0\.NET C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\obj\Debug\net7.0\.NET C#.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\obj\Debug\net7.0\.NET C#.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\obj\Debug\net7.0\.NET C#.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\obj\Debug\net7.0\.NET C#.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\obj\Debug\net7.0\refint\.NET C#.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\obj\Debug\net7.0\.NET C#.pdb
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\obj\Debug\net7.0\.NET C#.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\ConsoleAppVSC\obj\Debug\net7.0\ref\.NET C#.dll
