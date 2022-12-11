@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\bin\Debug\net6.0\Ejercicios_Operaciones_Cadenas.exe
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\bin\Debug\net6.0\Ejercicios_Operaciones_Cadenas.deps.json
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\bin\Debug\net6.0\Ejercicios_Operaciones_Cadenas.runtimeconfig.json
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\bin\Debug\net6.0\Ejercicios_Operaciones_Cadenas.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\bin\Debug\net6.0\Ejercicios_Operaciones_Cadenas.pdb
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\obj\Debug\net6.0\Ejercicios_Operaciones_Cadenas.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\obj\Debug\net6.0\Ejercicios_Operaciones_Cadenas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\obj\Debug\net6.0\Ejercicios_Operaciones_Cadenas.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\obj\Debug\net6.0\Ejercicios_Operaciones_Cadenas.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\obj\Debug\net6.0\Ejercicios_Operaciones_Cadenas.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\obj\Debug\net6.0\Ejercicios_Operaciones_Cadenas.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\obj\Debug\net6.0\refint\Ejercicios_Operaciones_Cadenas.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\obj\Debug\net6.0\Ejercicios_Operaciones_Cadenas.pdb
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\obj\Debug\net6.0\Ejercicios_Operaciones_Cadenas.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Operaciones_Cadenas\obj\Debug\net6.0\ref\Ejercicios_Operaciones_Cadenas.dll
