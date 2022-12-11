@@ -1,0 +1,23 @@
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.csproj.AssemblyReference.cache
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.AssemblyInfoInputs.cache
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.AssemblyInfo.cs
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\bin\Debug\net6.0\Ejercicios_Funciones.exe
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\bin\Debug\net6.0\Ejercicios_Funciones.deps.json
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\bin\Debug\net6.0\Ejercicios_Funciones.runtimeconfig.json
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\bin\Debug\net6.0\Ejercicios_Funciones.dll
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\bin\Debug\net6.0\Ejercicios_Funciones.pdb
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.dll
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\refint\Ejercicios_Funciones.dll
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.pdb
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.genruntimeconfig.cache
+C:\Users\ssancheze\Documents\GitHub\.NET-C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\ref\Ejercicios_Funciones.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\refint\Ejercicios_Funciones.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Funciones\Ejercicios_Funciones\obj\Debug\net6.0\Ejercicios_Funciones.pdb

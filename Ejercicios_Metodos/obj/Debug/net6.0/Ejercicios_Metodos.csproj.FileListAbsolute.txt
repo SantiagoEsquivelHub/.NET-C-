@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\obj\Debug\net6.0\Ejercicios_Metodos.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\obj\Debug\net6.0\Ejercicios_Metodos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\obj\Debug\net6.0\Ejercicios_Metodos.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\obj\Debug\net6.0\Ejercicios_Metodos.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\obj\Debug\net6.0\Ejercicios_Metodos.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\bin\Debug\net6.0\Ejercicios_Metodos.exe
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\bin\Debug\net6.0\Ejercicios_Metodos.deps.json
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\bin\Debug\net6.0\Ejercicios_Metodos.runtimeconfig.json
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\bin\Debug\net6.0\Ejercicios_Metodos.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\bin\Debug\net6.0\Ejercicios_Metodos.pdb
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\obj\Debug\net6.0\Ejercicios_Metodos.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\obj\Debug\net6.0\refint\Ejercicios_Metodos.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\obj\Debug\net6.0\Ejercicios_Metodos.pdb
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\obj\Debug\net6.0\Ejercicios_Metodos.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Metodos\obj\Debug\net6.0\ref\Ejercicios_Metodos.dll
