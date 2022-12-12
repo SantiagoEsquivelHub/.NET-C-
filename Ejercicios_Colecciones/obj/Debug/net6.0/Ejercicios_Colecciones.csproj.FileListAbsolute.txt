@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\bin\Debug\net6.0\Ejercicios_Colecciones.exe
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\bin\Debug\net6.0\Ejercicios_Colecciones.deps.json
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\bin\Debug\net6.0\Ejercicios_Colecciones.runtimeconfig.json
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\bin\Debug\net6.0\Ejercicios_Colecciones.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\bin\Debug\net6.0\Ejercicios_Colecciones.pdb
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\obj\Debug\net6.0\Ejercicios_Colecciones.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\obj\Debug\net6.0\Ejercicios_Colecciones.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\obj\Debug\net6.0\Ejercicios_Colecciones.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\obj\Debug\net6.0\Ejercicios_Colecciones.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\obj\Debug\net6.0\Ejercicios_Colecciones.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\obj\Debug\net6.0\Ejercicios_Colecciones.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\obj\Debug\net6.0\refint\Ejercicios_Colecciones.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\obj\Debug\net6.0\Ejercicios_Colecciones.pdb
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\obj\Debug\net6.0\Ejercicios_Colecciones.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Colecciones\obj\Debug\net6.0\ref\Ejercicios_Colecciones.dll
