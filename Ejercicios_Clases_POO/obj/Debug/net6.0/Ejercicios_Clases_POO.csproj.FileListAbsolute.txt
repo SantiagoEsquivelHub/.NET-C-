@@ -1,0 +1,15 @@
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\bin\Debug\net6.0\Ejercicios_Clases_POO.exe
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\bin\Debug\net6.0\Ejercicios_Clases_POO.deps.json
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\bin\Debug\net6.0\Ejercicios_Clases_POO.runtimeconfig.json
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\bin\Debug\net6.0\Ejercicios_Clases_POO.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\bin\Debug\net6.0\Ejercicios_Clases_POO.pdb
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\obj\Debug\net6.0\Ejercicios_Clases_POO.csproj.AssemblyReference.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\obj\Debug\net6.0\Ejercicios_Clases_POO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\obj\Debug\net6.0\Ejercicios_Clases_POO.AssemblyInfoInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\obj\Debug\net6.0\Ejercicios_Clases_POO.AssemblyInfo.cs
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\obj\Debug\net6.0\Ejercicios_Clases_POO.csproj.CoreCompileInputs.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\obj\Debug\net6.0\Ejercicios_Clases_POO.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\obj\Debug\net6.0\refint\Ejercicios_Clases_POO.dll
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\obj\Debug\net6.0\Ejercicios_Clases_POO.pdb
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\obj\Debug\net6.0\Ejercicios_Clases_POO.genruntimeconfig.cache
+C:\Users\Santiago\Desktop\Cursos\.NET C#\Ejercicios_Clases_POO\obj\Debug\net6.0\ref\Ejercicios_Clases_POO.dll
